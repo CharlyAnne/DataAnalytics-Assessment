@@ -1,4 +1,4 @@
-/* CQuestion 2: Calculate the avg number of transactions per customer per month and categorize them into frequency categories: 
+/* Task: Calculate the avg number of transactions per customer per month and categorize them into frequency categories: 
    "High Frequency" (≥10 transactions/month)
    "Medium Frequency" (3-9 transactions/month)
    "Low Frequency" (≤2 transactions/month) */
