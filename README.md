@@ -55,7 +55,7 @@ This repository contains my solutions to the Cowrywise SQL-based Data Analyst as
 - Account tenure (months since signup)
 - Total transactions
 - Estimated CLV (Assume: CLV = (total_transactions / tenure) * 12 * avg_profit_per_transaction)
-- Order by estimated CLV from highest to lowest**
+- Order by estimated CLV from highest to lowest.**
 
 **Approach:**
 - I estimated CLV using the formula: `CLV = (total_transactions / tenure_in_months) * 12 * avg_profit_per_transaction`
